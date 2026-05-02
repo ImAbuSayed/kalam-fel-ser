@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Kalam Fel Ser |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 03, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kalam-fel-ser/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور عينيك سحرني في سكون الليل
+> شوقي ليك يا حبيبي ملوش مثيل
+> قلبي بينادي عليك يا روح الروح
+> حبك سكن فيا وداوى كل الجروح
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
